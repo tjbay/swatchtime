@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="swatchtime",
-    version="0.3",
+    version="0.4",
     author="T.J. Bay",
     license="MIT",
     author_email="spintronic@gmail.com",
@@ -13,7 +13,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     entry_points = {
         'console_scripts': ['swatchtime=swatchtime.command_line:main'],
-    }
+    },
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
