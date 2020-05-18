@@ -8,7 +8,7 @@ setuptools.setup(
     author_email="spintronic@gmail.com",
     description="Calculates Swatch Internet Time",
     url="https://github.com/tjbay/swatchtime",
-    download_url="https://github.com/tjbay/swatchtime/archive/0.2.tar.gz",
+    download_url="https://github.com/tjbay/swatchtime/archive/0.4.tar.gz",
     keywords=["Swatch", "Internet", "Time"],
     packages=setuptools.find_packages(),
     entry_points = {
