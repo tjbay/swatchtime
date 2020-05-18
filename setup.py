@@ -4,9 +4,12 @@ setuptools.setup(
     name="swatchtime",
     version="0.2",
     author="T.J. Bay",
+    license="MIT",
     author_email="spintronic@gmail.com",
-    description="",
+    description="Calculates Swatch Internet Time",
     url="https://github.com/tjbay/swatchtime",
+    download_url="https://github.com/tjbay/swatchtime/archive/0.2.tar.gz",
+    keywords=["Swatch", "Internet", "Time"],
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
